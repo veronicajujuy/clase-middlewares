@@ -1,0 +1,16 @@
+
+El usuario ingreso a la ruta: / 
+El usuario ingreso a la ruta: /admin 
+El usuario ingreso a la ruta: /admin?user=Ada 
+El usuario ingreso a la ruta: /admin?user=Ada 
+El usuario ingreso a la ruta: / 
+El usuario ingreso a la ruta: /admin 
+El usuario ingreso a la ruta: /admin?user=Ada 
+El usuario ingreso a la ruta: /admin?user=Ada 
+El usuario ingreso a la ruta: /admin?user=Ce 
+El usuario ingreso a la ruta: /admin?user=Tim 
+El usuario ingreso a la ruta: /admin 
+El usuario ingreso a la ruta: /admin?user=Ada 
+El usuario ingreso a la ruta: /admin?user=Casa 
+El usuario ingreso a la ruta: /admin 
+El usuario ingreso a la ruta: / 
